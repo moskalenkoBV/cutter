@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "CirceRounded-Regular4";
+    src: url("fonts/CirceRounded-Regular4.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "CirceRounded-Regular5";
+    src: url("fonts/CirceRounded-Regular5.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+.text-block {
+  width: 300px;
+  border: 1px solid #000;
+  font-size: 1em;
+  font-family: 'CirceRounded-Regular4';
+}
